@@ -6,3 +6,5 @@ The purpose of a recommendation system basically is to search for content that w
 
 ## Book Recommendation
 Book Recommendation uses Collaborative Filtering for Recommending the Books.
+Demo
+![image](https://github.com/noctkun/RecommendationSystem/assets/110219756/bf435299-2ba5-4651-ab46-b536d861b455)
